@@ -1,3 +1,20 @@
+## 🚀 Projeto Base React + TypeScript + Redux
+
+Este projeto é uma base moderna para aplicações React, combinando as principais tecnologias do ecossistema front-end:
+
+- **React** com **TypeScript** para interfaces tipadas e seguras  
+- **Redux Toolkit** para gerenciamento de estado simplificado  
+- **React Router DOM** para navegação entre páginas  
+- **Styled Components** para estilização com CSS-in-JS  
+- **Enums** organizados para controle de rotas e tipos  
+- Estrutura modular e escalável com diretórios separados por responsabilidade  
+- Configuração pronta para temas dinâmicos, como modo claro/escuro  
+- ESLint e Prettier integrados para padronização de código  
+- Ideal para projetos profissionais, MVPs ou estudos avançados  
+
+A proposta é acelerar o desenvolvimento com uma arquitetura limpa, pronta para crescer.  
+Sinta-se à vontade para adaptar, expandir ou contribuir com melhorias!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
